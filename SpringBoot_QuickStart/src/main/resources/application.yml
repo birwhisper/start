@@ -1,0 +1,11 @@
+server:
+  port: 9090
+  servlet:
+    context-path: "/"
+local: "牧"
+#ac
+ms:
+  name: "ac"
+  addr: "bd"
+  sql: 1433
+  nosql: 6379
